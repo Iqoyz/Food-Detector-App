@@ -32,7 +32,7 @@ A full-stack IoT system combining an Android mobile app, MQTT messaging, and a s
 
 ## Demo Video
 
-Watch the demo video on [YouTube](https://youtu.be/oZ3xylCT6pY) or download from [GitHub Releases](https://github.com/Iqoyz/MDPHelper/releases).
+Watch the demo video on [YouTube](https://youtu.be/oZ3xylCT6pY).
 
 ---
 
